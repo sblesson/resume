@@ -1,0 +1,102 @@
+{
+  "main": {
+    "name": "Sapna Blesson",
+    "occupation": "Front-end engineer",
+    "description": "A very passionate, committed, authentic and kind individual, looking for the next opportunity to make an impact. Previously I worked on fast paced Sanfrancisco based start-up, employee #9 of CyberCube or first engineer to join CyberCube's engineering team; who made a huge impact in building this company from the ground-up to Series B funding contributed in all functions not just limited to engineering. I have over 10 years of industry experience as a front-end engineer from different companies in Silicon valley ranging from start-ups to big corporations. ",
+    "image": "profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "email": "sapnablesson@gmail.com",
+    "phone": "408-569-5278",
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "/resume.doc",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/sapnabl",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sapnablesson/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "San Jose State University",
+        "degree": "Masters in Computer Science",
+        "graduated": "May 2009"
+      },
+      {
+        "school": "Cochin University of Science and Technology",
+        "degree": "BS: Computer Science and Engineering",
+        "graduated": "May 2005"
+      }
+    ],
+    "work": [
+      {
+        "company": "CyberCube",
+        "title": "Founding Engineer",
+        "years": "Jan 2018 - Dec 2019",
+        "description": ""
+      },
+      {
+        "company": "Symantec",
+        "title": "Senior Front-end Engineer",
+        "years": "Aug 2016 - Dec 2018",
+        "description": ""
+      },
+      {
+        "company": "Ericsson",
+        "title": "Senior Front-end Engineer",
+        "years": "July 2014 - Aug 2016",
+        "description": ""
+      },
+      {
+        "company": "Deutsche Telekom HBS",
+        "title": "Front-end Engineer",
+        "years": "Oct 2011 - July 2014",
+        "description": ""
+      },
+      {
+        "company": "Power Assure",
+        "title": "Front-end Engineer",
+        "years": "Apr 2011 - Oct 2011",
+        "description": ""
+      },
+      {
+        "company": "Yahoo",
+        "title": "Front-end Engineer",
+        "years": "June 2010 - Apr 2011",
+        "description": ""
+      },
+      {
+        "company": "Fundavision",
+        "title": "Front-end Engineer",
+        "years": "Feb 2010 - June 2010",
+        "description": ""
+      },
+      {
+        "company": "mylawsuit.com",
+        "title": "Front-end Engineer",
+        "years": "Aug 2009 - Jan 2010",
+        "description": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sapna -- You were such a big contributor and one of the reasons we've been able to get this company off the ground.  You will be missed.  Please stay connected.  If I'm lucky I'll be able to work in an org with you again in future",
+        "user": "Dave Gillmore"
+      },
+      {
+        "text": "I’ve had the chance to work with Sapna at both Symantec and CyberCube. Sapna was the first engineer working on cyber insurance at Symantec to transition to our newly-funded startup. It was a delight to work with her - she’s very skilled, able to execute and improve on a vision, versatile beyond engineering skills, and comfortable with uncertainty / changes. I wholeheartedly recommend her and wish her the very best in all future projects.",
+        "user": "Morgan Hervé-Mignucci"
+      }
+    ]
+  }
+}
